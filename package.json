@@ -1,0 +1,18 @@
+{
+  "name": "caprice-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Medium-to-high contrast theme with pleasant colours.",
+  "keywords": [
+    "syntax",
+    "green",
+    "red",
+    "blue",
+    "light"
+  ],
+  "repository": "https://github.com/protesilaos/caprice-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
