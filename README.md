@@ -1,15 +1,15 @@
 # Caprice syntax theme (light version)
 
-Medium-to-high contrast theme. Its most prevalent colours are variants of green, red, blue, cyan, and violet.
+Medium-to-high contrast theme, hinting towards the blue side of the spectrum. Its most prevalent colours are variants of violet, green, blue, cyan, and orange (brown).
 
-*Caprice* is available as separate light and dark themes (see further info below).
+*Caprice* is available in separate light and dark themes (see further info below).
 
 ## Screenshot
 
 ![caprice light screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/caprice/img/caprice_light_sample.png)
 
-*The font in the screenshot is [Hack](https://github.com/chrissimpkins/Hack), set at 14px*.  
-*Demo code by http://codemirror.net/mode/javascript/index.html*  
+*The font is [Hack](https://github.com/chrissimpkins/Hack)*.  
+*Demo JS by http://codemirror.net/mode/javascript/index.html*  
 *The UI theme is https://atom.io/themes/atom-material-ui*.
 
 ## Download
