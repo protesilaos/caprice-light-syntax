@@ -23,3 +23,8 @@
   - `secondary2` from `vio` to `ora`
   - `tertiary1` from `yel` to `red`
   - `tertiary2` from `ora` to `mag`
+
+## 1.1.0
+- Refinements to JavaScript.
+- Refinements to Markdown.
+- Minor improvements to editor styles.
