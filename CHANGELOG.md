@@ -28,3 +28,9 @@
 - Refinements to JavaScript.
 - Refinements to Markdown.
 - Minor improvements to editor styles.
+
+## 1.2.0
+- Added macro highlighting for Rust.
+- Update to visual order in `styles/colors.less`
+  - `secondary2` from `ora` to `mag`
+  - `tertiary2` from `mag` to `ora`

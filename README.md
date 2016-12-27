@@ -1,16 +1,21 @@
 # Caprice syntax theme (light version)
 
-Medium-to-high contrast theme, hinting towards the blue side of the spectrum. Its most prevalent colours are variants of violet, green, blue, cyan, and orange (brown).
+Medium-to-high contrast theme, hinting towards the blue side of the spectrum. Its most prevalent colours are variants of violet, green, blue, cyan, and orange.
 
 *Caprice* is available in separate light and dark themes (see further info below).
 
-## Screenshot
+## Screenshots
 
-![caprice light screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/caprice/img/caprice_light_sample.png)
+![caprice light screenshot html](https://raw.githubusercontent.com/protesilaos/prot16/master/caprice/img/caprice_light_html.png)
 
-*The font is [Iosevka term slab](https://github.com/be5invis/Iosevka)*.  
-*JavaScript demo is source code of [prismjs](http://prismjs.com/)*  
-*The UI is my experimental fork of the default One Dark*.
+![caprice light screenshot scss](https://raw.githubusercontent.com/protesilaos/prot16/master/caprice/img/caprice_light_scss.png)
+
+![caprice light screenshot js](https://raw.githubusercontent.com/protesilaos/prot16/master/caprice/img/caprice_light_js.png)
+
+![caprice light screenshot md](https://raw.githubusercontent.com/protesilaos/prot16/master/caprice/img/caprice_light_md.png)
+
+*The font is [Iosevka term](https://github.com/be5invis/Iosevka)*.  
+*The UI is [Atom Material](https://github.com/atom-material/atom-material-ui)*.
 
 ## Download
 
